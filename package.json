@@ -2,8 +2,5 @@
   "name": "docs",
   "lockfileVersion": 3,
   "requires": true,
-  "scripts": {
-    "build": "npx mint build"
-  },
   "packages": {}
 }
